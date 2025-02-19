@@ -1,0 +1,9 @@
+[project]
+name = "static-analyzer-bench"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "codechecker>=6.24.4",
+]
