@@ -13,6 +13,7 @@ dependencies = [
 
 [project.scripts]
 static_analyzer_bench = "static_analyzer_bench:main"
+sab = "static_analyzer_bench:main"
 
 [build-system]
 requires = ["hatchling"]
