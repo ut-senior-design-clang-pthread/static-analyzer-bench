@@ -1,5 +1,5 @@
 [project]
-name = "static-analyzer-bench"
+name = "static_analyzer_bench"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
@@ -12,7 +12,7 @@ dependencies = [
 ]
 
 [project.scripts]
-static-analyzer-bench = "static-analyzer-bench:main"
+static_analyzer_bench = "static_analyzer_bench:main"
 
 [build-system]
 requires = ["hatchling"]
